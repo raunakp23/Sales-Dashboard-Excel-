@@ -1,4 +1,4 @@
-📊 Sales Dashboard (Excel)
+## 📊 Sales Dashboard (Excel)
 
 📌 Overview
 
@@ -40,7 +40,7 @@ The dashboard is designed for **data analysis and business decision-making**, wi
 
 ## 📂 Files
 
-* `Sales_Dashboard.xlsx` → Main Excel dashboard file
+* `Excel Project.xlsx` → Main Excel dashboard file
 * `Screenshot.png` → Preview of the dashboard
 
 ---
@@ -65,7 +65,7 @@ The dashboard is designed for **data analysis and business decision-making**, wi
 
 ## 🔧 How to Use
 
-1. Download the `Sales_Dashboard.xlsx` file.
+1. Download the `Excel Project.xlsx` file.
 2. Open in Microsoft Excel (2016 or later recommended).
 3. Use the slicers (filters) to interact with the dashboard.
 4. Analyze sales trends, profit margins, and delivery performance.
@@ -92,6 +92,6 @@ The dashboard is designed for **data analysis and business decision-making**, wi
 
 ## 👨‍💻 Author
 
-**Raunak Patel**
+**Raunak kumar**
 📌 Computer Science Engineering Student
 📊 Exploring Data Analytics & Visualization
